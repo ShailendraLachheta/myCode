@@ -1,0 +1,2 @@
+# myCode
+Small applications coding 
